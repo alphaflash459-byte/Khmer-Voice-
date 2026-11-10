@@ -1,0 +1,6 @@
+{
+  "name": "Khmer Voice AI - Real Human Text to Speech Studio",
+  "description": "កម្មវិធីបម្លែងអត្ថបទទៅជាសម្លេងមនុស្សពិតកម្រិតខ្ពស់ (Realistic AI Text to Speech Studio) ជាមួយសម្លេងធម្មជាតិ បច្ចេកវិទ្យា Gemini Voice AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
